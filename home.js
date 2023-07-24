@@ -4,7 +4,7 @@ let barsMark = document.querySelector(".fa-bars");
 let closeMark = document.querySelector(".fa-xmark");
 
 closeMark.style.display = "none";
-
+console.log("hi");
 let open = false;
 
 function toggleMenu() {
